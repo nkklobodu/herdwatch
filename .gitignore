@@ -1,0 +1,14 @@
+# IGNORING FILES WITHOUT EXTENSIONS
+# ignore everything
+*
+
+# unignore anything that is a directory
+!*/
+
+# unignore all files with an extension
+!*.*
+
+# ignore all directories ending with backups
+**/*backups/
+
+*.lck
