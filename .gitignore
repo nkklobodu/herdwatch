@@ -12,3 +12,4 @@
 **/*backups/
 
 *.lck
+# *.kicad_prl
